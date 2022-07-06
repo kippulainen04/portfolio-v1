@@ -70,7 +70,7 @@ After fulfilling the project, I accquire knowledge to:
 
 2. Using the live code
 * Open your webbrowser
-* Then add [this link](kippulainen04.github.io/portfolio-v1/) to your internet browser
+* Then add [this link](https://kippulainen04.github.io/portfolio-v1/) to your internet browser
 
 <div id='author'/>
 
